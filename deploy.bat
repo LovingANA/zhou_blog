@@ -1,0 +1,1 @@
+scp -r public/* root@192.168.0.101:/root/www 
