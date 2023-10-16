@@ -1,5 +1,5 @@
 ---
-title: about
+title: 关于
 date: 2023-10-16 11:10:39
 ---
 
@@ -18,7 +18,7 @@ date: 2023-10-16 11:10:39
 - Switzerland
 - 哥本哈根
 
-[跳转](https://google.com)
+[写作教程](https://yearito.cn/posts/hexo-writing-skills.html#%E6%A0%87%E7%AD%BE%E4%B8%8E%E5%88%86%E7%B1%BB)
 ![永真](/images/yong_zhen.jpg)
 
 ---
