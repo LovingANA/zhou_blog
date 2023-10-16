@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 周伟的博客
+title: Ever的博客
 subtitle: ''
-description: '周伟的每周读书感悟，技术收获'
+description: 'Ever的每周读书感悟，技术收获'
 keywords:
-author: 周伟
+author: Ever
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: http://zhouwei123.tpddns.cn:8081
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -39,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
