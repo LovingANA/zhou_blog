@@ -4,6 +4,7 @@ date: 2023-10-16 11:10:39
 ---
 
 # 写作学习
+## 二级学习
 
 
 记录**我的**文章
@@ -25,8 +26,27 @@ date: 2023-10-16 11:10:39
 
 `console.log(1)`
 
-```
+``` js 片段 https://google.com 跳转
   function foo() {
     return 'awesome hexo!'
   }
 ```
+{% note primary %}
+primary 提示块标签
+{% endnote %}
+
+{% note success %}
+success 提示块标签
+{% endnote %}
+
+{% label success@成功了 %}
+{% label danger@失败了 %}
+
+{% btn #, 文本 %}
+{% btn #, 主页, home %}
+
+{% post_link work-conclusion 链接标题 %}
+
+{% raw %}
+<script>console.log(1)</script>
+{% endraw %}
