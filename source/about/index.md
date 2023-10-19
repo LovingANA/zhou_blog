@@ -45,7 +45,6 @@ success 提示块标签
 {% btn #, 文本 %}
 {% btn #, 主页, home %}
 
-{% post_link work-conclusion 链接标题 %}
 
 {% raw %}
 <script>console.log(1)</script>
